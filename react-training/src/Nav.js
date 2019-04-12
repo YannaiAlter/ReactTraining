@@ -1,13 +1,11 @@
 import React from 'react';
-
-function MyInfo() {
+function Nav()
+{
 return (
-    <div>
+    <nav>
         <h1>Its Yannai Alter</h1>
         <p>This is a paragraph about me</p>
-
-    </div>
-    
+    </nav>
     )
 }
-export default MyInfo
+export default Nav
