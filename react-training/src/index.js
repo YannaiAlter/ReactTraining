@@ -2,4 +2,5 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-ReactDOM.render(<p>hello world</p>, document.getElementById('root'));
+ReactDOM.render(<ul><li>1</li><li>2</li></ul>
+    , document.getElementById('root'));
